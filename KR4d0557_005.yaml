@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0557/krp/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鶴年詩集後跋鶴年其先西域人西域人多名丁既入中國因以為姓故鶴年亦丁姓其祖父皆仕元二兄皆舉進士為顯官鶴年獨泊然布素寒士元亡歸四明與戴叔能相善尚節操有孝行叔能嘗為作傳後隱武昌山中余在武昌遇之甚相得時已老矣别後數嵗卒此集蓋其卒後得之武昌鄧存誠廬陵楊士竒跋
+  hash: sha256:eb2ff85403a33032c58664c7d2da47fd29903265f59950fc1b4ad3144a921072
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0557_WYG_005-1a, image: WYG1217/WYG1217-0545c.png}
+metadata:
+  title: 鶴年詩集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:14:19.958029'
+  juan_title: 後跋
+  source:
+    repository: kanripo
+    path: KR4d0557/KR4d0557_005.txt
+hash: sha256:994d17f373e23b9046f16f761ef446b35659d7923dfbc486f34e2d036acf53fc

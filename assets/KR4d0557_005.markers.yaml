@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR4d0557/bkk/v1/markers/5
+seq: 5
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4d0557_krp_005-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4d0557_WYG_005-1a01}
+  - {type: substitution, offset: 5, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3160}}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR4d0557_krp_005-bkkkrnewl2}
+  - {type: line-break, offset: 6, content: '', id: KR4d0557_WYG_005-1a02}
+  - {type: 'kr:newline', offset: 27, content: '
+
+      ', id: KR4d0557_krp_005-bkkkrnewl3}
+  - {type: line-break, offset: 27, content: '', id: KR4d0557_WYG_005-1a03}
+  - {type: 'kr:newline', offset: 48, content: '
+
+      ', id: KR4d0557_krp_005-bkkkrnewl4}
+  - {type: line-break, offset: 48, content: '', id: KR4d0557_WYG_005-1a04}
+  - {type: 'kr:newline', offset: 69, content: '
+
+      ', id: KR4d0557_krp_005-bkkkrnewl5}
+  - {type: line-break, offset: 69, content: '', id: KR4d0557_WYG_005-1a05}
+  - {type: substitution, offset: 81, original: 隠, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4332}}
+  - {type: 'kr:newline', offset: 90, content: '
+
+      ', id: KR4d0557_krp_005-bkkkrnewl6}
+  - {type: line-break, offset: 90, content: '', id: KR4d0557_WYG_005-1a06}
+  - {type: substitution, offset: 106, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
+  - {type: 'kr:newline', offset: 111, content: '
+
+      ', id: KR4d0557_krp_005-bkkkrnewl7}
+  - {type: line-break, offset: 111, content: '', id: KR4d0557_WYG_005-1a07}
+  - {type: 'kr:newline', offset: 123, content: '
+
+      ', id: KR4d0557_krp_005-bkkkrnewl8}
+  back: []
+hash: sha256:caf504fdac431f3cda8ec318c4b6adba7475617f36b918dfbed2b13468f412da
