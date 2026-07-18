@@ -24,10 +24,10 @@ assets:
   - {seq: 4, filename: KR4d0557_004-WYG.yaml, hash: 'sha256:5e06048ec4d1649d0591d235d2bd8b132f0cf3a2b0f9b0eb7f734bb23f4c67cb'}
   - {seq: 5, filename: KR4d0557_005-WYG.yaml, hash: 'sha256:a280aac39d0bbf554cf6cb345fac955d80482fadb1319623e93acf554ea98daa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0557_000-WYG.markers.yaml, hash: 'sha256:5b3b93980d9834e27a4ad9fadeb887868984c0e6318d9f3453893d9a9ccbb3fa'}
-  - {seq: 1, role: markers, filename: assets/KR4d0557_001-WYG.markers.yaml, hash: 'sha256:e9c32287040991285bef8433b3c21789df90192bc76f62f136febb5a76b5a94f'}
-  - {seq: 2, role: markers, filename: assets/KR4d0557_002-WYG.markers.yaml, hash: 'sha256:bc82cfbd5d4eec98eb9b01b1a9040c69219e99a4781a722945e05916260862e6'}
-  - {seq: 3, role: markers, filename: assets/KR4d0557_003-WYG.markers.yaml, hash: 'sha256:b8a5bcc4747c660773841eaf2dc9c3357666f76d423cb3ee8c3efbd1d99b212b'}
+  - {seq: 0, role: markers, filename: assets/KR4d0557_000-WYG.markers.yaml, hash: 'sha256:d9fc447d6cef507936160141a0ca879a5e402400006152145eeceb4c8bc3bcd0'}
+  - {seq: 1, role: markers, filename: assets/KR4d0557_001-WYG.markers.yaml, hash: 'sha256:09aaeec04208b99164ce08b601bccfe64e1c017930f38d1d9d8809b79f0d72ec'}
+  - {seq: 2, role: markers, filename: assets/KR4d0557_002-WYG.markers.yaml, hash: 'sha256:e16d92a45f0b2d393695c34fff25398311f3fe4f3fc9dd3cb3fbd346fd79ab48'}
+  - {seq: 3, role: markers, filename: assets/KR4d0557_003-WYG.markers.yaml, hash: 'sha256:8c8b277846ff4328a76afbda775fbaecf3308443a77f16f4ddc91a8a83cca2db'}
   - {seq: 4, role: markers, filename: assets/KR4d0557_004-WYG.markers.yaml, hash: 'sha256:e524dcac9024663d10d1c8ed5b5c1b387981bc610d285acb150a05fdf0f9e70e'}
   - {seq: 5, role: markers, filename: assets/KR4d0557_005-WYG.markers.yaml, hash: 'sha256:e75a264dab95f111a93dd738ebc283d97f331a7268b4e230285095ecd7a221ac'}
 table_of_contents:
@@ -101,4 +101,4 @@ table_of_contents:
   label: 後跋
   type: section
   level: 1
-hash: sha256:d8e292ef54c4e23a9c4e3c2eaec695b2d2806c1048a31ab541241be1fb5135dd
+hash: sha256:46cac0ec0c18cd196696701be9d83a026cfacdc34e4dc67173052d7c973b52ad
